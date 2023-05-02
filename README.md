@@ -42,6 +42,6 @@ npx hardhat run scripts/deploy.js --network sepolia
 
 # Hardhart Config with Metamask
 
-1 - Create your Alchemy App in Sepolia Network and get the HTTPS App Key
-2 - Get your private Metamask Account key
-3 - add your Metamask private key and Alchemy App Key on hardhat.config.js
+- 1 - Create your Alchemy App in Sepolia Network and get the HTTPS App Key
+- 2 - Get your private Metamask Account key
+- 3 - add your Metamask private key and Alchemy App Key on hardhat.config.js

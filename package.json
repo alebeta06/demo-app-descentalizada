@@ -4,9 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
@@ -14,8 +12,6 @@
     "hardhat": "^2.14.0"
   },
   "devDependencies": {
-    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
-    "gh-pages": "^5.0.0"
-  },
-  "homepage": "https://alebeta06.github.io/demo-app-descentalizada"
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2"
+  }
 }
